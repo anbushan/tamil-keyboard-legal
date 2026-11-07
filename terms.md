@@ -16,7 +16,7 @@ The chat sticker feature only shows files that are already on your phone. Share 
 
 ## 4. Other services
 
-Some features use services from other companies: Google ML Kit (handwriting, translation, background removal), your phone’s speech recognition (voice typing) and Google Analytics for Firebase (usage statistics). Their own terms and privacy policies apply to those parts. Tamil Keyboard is not affiliated with WhatsApp or Google.
+Some features use services from other companies: Google ML Kit (handwriting, translation, background removal) and your phone’s speech recognition (voice typing). Their own terms and privacy policies apply to those parts. Tamil Keyboard is not affiliated with WhatsApp or Google.
 
 ## 5. Suggestions and translations
 

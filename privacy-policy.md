@@ -4,7 +4,7 @@ _Last updated 7 November 2026_
 
 ## In short
 
-What you type is processed on your phone and is never sent to us or anyone else. We have no servers and no accounts. The keyboard itself shows no ads. The only typed or spoken words that can leave your phone are voice typing handled by your phone’s speech service. The app counts which screens and features are used (never what you type); you can turn this off.
+What you type is processed on your phone and is never sent to us or anyone else. We have no servers and no accounts. The keyboard itself shows no ads. The only typed or spoken words that can leave your phone are voice typing handled by your phone’s speech service.
 
 ## What you type
 
@@ -49,10 +49,6 @@ If you choose “Back up to a file”, your settings, learned words and shortcut
 ## Opening apps from the keyboard
 
 To suggest apps while you type and to show the ⊞ Apps panel, the keyboard reads the list of apps on your phone that have a home-screen icon. This list never leaves your phone. You can turn app suggestions off in Typing settings.
-
-## Usage statistics
-
-The Tamil Keyboard app (not the keyboard) uses Google Analytics for Firebase to count which screens are opened and which features are used, for example “a theme was chosen” or “a sticker was made”. It never sends anything you type, your words, shortcuts, photos or file names. Google receives an app-instance identifier and basic device information (model, Android version, country). The advertising ID is not collected. You can turn this off any time in Typing settings → Privacy → Share usage statistics. See https://policies.google.com/privacy
 
 ## Ratings
 
